@@ -1,0 +1,11 @@
+build:
+  version: 2.0.0
+
+accounts:
+  message: "Welcome to EazyBank account related QA APIS"
+  contactDetails:
+    name: "Samantha - QA Lead"
+    email: "samantha@gmai.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
