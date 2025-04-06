@@ -2,10 +2,10 @@ build:
   version: 1.0.0
 
 accounts:
-  message: "Welcome to EazyBank account related prod  APIS"
+  message: 'Welcome to EazyBank account related Production Owner APIS'
   contactDetails:
-    name: "Reine Aishirawa - Product Owner"
-    email: "aishwarya@gmail.com"
+    name: 'Reine Aishirawa - Product Owner'
+    email: 'aishwarya@gmail.com'
   onCallSupport:
     - (463) 234-1234
     - (125) 555-1235
