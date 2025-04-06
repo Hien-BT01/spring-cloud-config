@@ -2,7 +2,7 @@ build:
   version: 2.0.0
 
 accounts:
-  message: "Welcome to EazyBank account related QA APIS"
+  message: "Welcome to EazyBank account related Quality Assurance APIS"
   contactDetails:
     name: "Samantha - QA Lead"
     email: "samantha@gmai.com"
