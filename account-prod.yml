@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: 'Welcome to EazyBank account related Production Env APIS'
+  message: 'Welcome to EazyBank account related Prod Environment APIS'
   contactDetails:
     name: 'Reine Aishirawa - Product Owner'
     email: 'aishwarya@gmail.com'
