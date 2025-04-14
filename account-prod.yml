@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: 'Moshi mosh to EazyBank account of Prod ENV APIS'
+  message: 'Moshi onegaisimasu mosh to EazyBank account of Prod ENV APIS'
   contactDetails:
     name: 'Kevin Hien - Project manager'
     email: 'kevin@gmail.com'
