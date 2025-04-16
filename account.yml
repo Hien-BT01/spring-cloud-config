@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank account related APIS"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@gmail.com"
+    name: "Kevin HienBT - BE developer"
+    email: "kevinHbt@gmail.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1235
