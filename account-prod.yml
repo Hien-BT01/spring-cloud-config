@@ -2,10 +2,10 @@ build:
   version: 1.0.0
 
 accounts:
-  message: 'Welcome to EazyBank account related Production Env APIS'
+  message: 'Moshi onegaisimasu mosh to EazyBank account of Prod ENV APIS'
   contactDetails:
-    name: 'Reine Aishirawa - Product Owner'
-    email: 'aishwarya@gmail.com'
+    name: 'Kevin Hien - Project manager'
+    email: 'kevin@gmail.com'
   onCallSupport:
     - (463) 234-1234
     - (125) 555-1235
